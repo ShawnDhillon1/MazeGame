@@ -1,6 +1,6 @@
  *Creator
     Harsharan Dhillon
-    Fresno State CSCI 115
+   
 
 
  *Maze Game Project
